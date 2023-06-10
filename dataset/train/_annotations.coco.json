@@ -16,7 +16,7 @@
     ],
     "categories": [
         {
-            "id": 0,
+            "id": 8,
             "name": "Gestures",
             "supercategory": "none"
         },
@@ -53,7 +53,7 @@
     ],
     "images": [
         {
-            "id": 0,
+            "id": 8,
             "license": 1,
             "file_name": "egohands-public-1620849858430_png.rf.004d87dd34d15d757d90c955d8f5730a.jpg",
             "height": 416,
@@ -15191,7 +15191,7 @@
     ],
     "annotations": [
         {
-            "id": 0,
+            "id": 8,
             "image_id": 0,
             "category_id": 4,
             "bbox": [
