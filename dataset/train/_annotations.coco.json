@@ -117,7 +117,7 @@
             "date_captured": "2022-02-09T17:21:15+00:00"
         },
         {
-            "id": 8,
+            "id": 7,
             "license": 1,
             "file_name": "Cool-Video-of-Ocean-Fish-Swimming_mp4-47_jpg.rf.0115a446cb1ddee518e166947a3c8166.jpg",
             "height": 416,
@@ -15303,7 +15303,7 @@
             "iscrowd": 0
         },
         {
-            "id": 8,
+            "id": 7,
             "image_id": 9,
             "category_id": 5,
             "bbox": [
